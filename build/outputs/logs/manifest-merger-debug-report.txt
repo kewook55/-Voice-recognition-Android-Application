@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:1-49:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a33c8b2a56c290335db9321c93490764\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a6890eab0f8de54ae2bc7bea85cba7b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\773115bca0d4acec2c68bd1417555ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a412879bbb6f3ea0752914e19bfb0eba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db4e64aa222ff062466d926cc375769f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38781e52688d51b13180cf68aaae06f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\98908150db55ffb3de303f451d233e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\94ad81ce12601d1c00b36ef02fd5cbc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\538dcae03df454a9f2aee080147b071b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7a001fa10e5b22b05c496ca3ae1cb32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d09d9f94caccd2972402132d50bc2cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\013727b2f23d013a3265a2e617a711a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\57a73284f47a1f742e638e4fadfd6bad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f6fafcd441f10c7884fe5b8475ed0e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642cdb074ea19898a0839b33ae81f390\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09f0d90d1c66b53e70532b99152a8b76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c35a349df449297e9869a763e5185465\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54de652734a9b6ce30fdeef009168a3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f632b010b1abde57bdb5b79a5ab65cdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6fb24b99d91ce84bbf8f396a386b8e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d07879c89c5a9e0b5f4806d384463a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\94f7153fdfdfafd3e050cfd34fba29cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\172d8da3455d2028edf3c8297198387d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0152485ae78b1ece2e0b0fdfe6f8f206\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6745dcc22397fcd3dc2517326f0f75e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\886e848042952fba1249c58eda99fae4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e5e6c4f15506dfcf680b2babad21da5f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:1-49:12
+	package
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:18:11-42
+	android:versionName
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:20:11-36
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:19:11-34
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:26:5-89
+	android:required
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:26:64-87
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:26:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:30:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:31:5-70
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:31:22-68
+application
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:33:5-48:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c35a349df449297e9869a763e5185465\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c35a349df449297e9869a763e5185465\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:33:18-50
+	android:icon
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:34:18-54
+	android:theme
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:35:18-65
+activity#com.bdrone.controller.DeviceScanActivity
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:36:9-42:20
+	android:label
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:37:19-51
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:36:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:40:27-74
+activity#com.bdrone.controller.DeviceControlActivity
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:43:9-45:11
+	android:screenOrientation
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:43:19-77
+service#com.bdrone.controller.BluetoothLeService
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:46:9-98
+	android:enabled
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:46:74-96
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:46:18-73
+activity#com.bdrone.controller.SplashActivity
+ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:47:9-125
+	android:theme
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:47:49-113
+	android:name
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml:47:19-48
+uses-sdk
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a33c8b2a56c290335db9321c93490764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a33c8b2a56c290335db9321c93490764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a6890eab0f8de54ae2bc7bea85cba7b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a6890eab0f8de54ae2bc7bea85cba7b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\773115bca0d4acec2c68bd1417555ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\773115bca0d4acec2c68bd1417555ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a412879bbb6f3ea0752914e19bfb0eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a412879bbb6f3ea0752914e19bfb0eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db4e64aa222ff062466d926cc375769f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db4e64aa222ff062466d926cc375769f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38781e52688d51b13180cf68aaae06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\38781e52688d51b13180cf68aaae06f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\98908150db55ffb3de303f451d233e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\98908150db55ffb3de303f451d233e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\94ad81ce12601d1c00b36ef02fd5cbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\94ad81ce12601d1c00b36ef02fd5cbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\538dcae03df454a9f2aee080147b071b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\538dcae03df454a9f2aee080147b071b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7a001fa10e5b22b05c496ca3ae1cb32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7a001fa10e5b22b05c496ca3ae1cb32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d09d9f94caccd2972402132d50bc2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d09d9f94caccd2972402132d50bc2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\013727b2f23d013a3265a2e617a711a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\013727b2f23d013a3265a2e617a711a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\57a73284f47a1f742e638e4fadfd6bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\57a73284f47a1f742e638e4fadfd6bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f6fafcd441f10c7884fe5b8475ed0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f6fafcd441f10c7884fe5b8475ed0e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642cdb074ea19898a0839b33ae81f390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\642cdb074ea19898a0839b33ae81f390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09f0d90d1c66b53e70532b99152a8b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\09f0d90d1c66b53e70532b99152a8b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7ef2ab7dbcffc7c2e2add2e94d98b290\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c35a349df449297e9869a763e5185465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c35a349df449297e9869a763e5185465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54de652734a9b6ce30fdeef009168a3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54de652734a9b6ce30fdeef009168a3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f632b010b1abde57bdb5b79a5ab65cdf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f632b010b1abde57bdb5b79a5ab65cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6fb24b99d91ce84bbf8f396a386b8e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6fb24b99d91ce84bbf8f396a386b8e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d07879c89c5a9e0b5f4806d384463a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d07879c89c5a9e0b5f4806d384463a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\94f7153fdfdfafd3e050cfd34fba29cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\94f7153fdfdfafd3e050cfd34fba29cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\172d8da3455d2028edf3c8297198387d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\172d8da3455d2028edf3c8297198387d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0152485ae78b1ece2e0b0fdfe6f8f206\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0152485ae78b1ece2e0b0fdfe6f8f206\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6745dcc22397fcd3dc2517326f0f75e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e6745dcc22397fcd3dc2517326f0f75e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\886e848042952fba1249c58eda99fae4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\886e848042952fba1249c58eda99fae4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e5e6c4f15506dfcf680b2babad21da5f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kewook\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e5e6c4f15506dfcf680b2babad21da5f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		ADDED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
+		INJECTED from C:\Users\kewook\Desktop\Drone(02.18)\drone_source(an_studio)\AndroidManifest.xml
